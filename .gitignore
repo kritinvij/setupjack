@@ -3,3 +3,7 @@
 
 # Workspace files
 .idea/
+
+# typescript and build
+node_modules/
+*lock*
