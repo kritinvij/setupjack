@@ -6,4 +6,7 @@
 
 # typescript and build
 node_modules/
+.cache/
+dist/
 *lock*
+out/

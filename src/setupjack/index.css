@@ -1,0 +1,7 @@
+body {
+    background: #c1bbbb;
+}
+
+.container * {
+    color: #c1bbbb;
+}
