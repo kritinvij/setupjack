@@ -1,3 +1,6 @@
+# random files
+.DS_Store
+
 # Log file
 *.log
 
@@ -8,5 +11,4 @@
 node_modules/
 .cache/
 dist/
-*lock*
 out/

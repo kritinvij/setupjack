@@ -12,5 +12,14 @@
         "gh-pages": "^2.2.0",
         "parcel-bundler": "^1.12.4",
         "typescript": "^3.8.3"
-    }
+    },
+    "homepage": "https://kritinvij.github.io/setupjack",
+    "name": "setup-jack",
+    "version": "0.1",
+    "repository": {
+        "url": "https://github.com/kritinvij/setupjack",
+        "type": "git"
+    },
+    "author": "Kritin Vij",
+    "license": "MIT"
 }
