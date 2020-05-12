@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACI,kBAAmB,CACnB,uBACJ","file":"setupjack.e74d49b0.css","sourceRoot":"../src/setupjack","sourcesContent":["body {\n    background: #c1bbbb;\n    color: #c1bbbb !important;\n}\n"]}
